@@ -5,7 +5,7 @@
 ## Hello there! 👋
 I'm Serdar, a DevOps Engineer.  
 - 🌱 Currently working on Kubernetes and ArgoCD for continuous deployment (CD) processes.  
-- 📫 Reach me at [your-email@example.com].  
+- 📫 Reach me at [serdarselcukdevops@gmail.com].  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/serdar-sel%C3%A7uk-65243334b/) |
 ## What Am I Working On?
 I'm optimizing DevOps pipelines and developing automation projects with Jenkins and Kubernetes.
