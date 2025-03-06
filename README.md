@@ -3,12 +3,11 @@
 ![Coding Image](https://media.giphy.com/media/3o7TKTDn976rzVgky4/giphy.gif)
 
 ## Hi there! 👋
-I'm [adın], [meslek/ilgi alanı].  
-- 🌱 Currently learning [ne öğreniyorsun, örneğin "DevOps tools"].
-- 📫 Reach me at [e-posta veya sosyal medya].
+I'm Serdar Selçuk, DevOps Engineer  
 
-## I am currently dealing with [DevOps]
-[Kısa bir açıklama, örneğin "Linux automation projects"]
+- 📫 Reach me at serdarselcukdevops@gmail.com
+
+## I am currently dealing with [DevOps tools and Linux automation projects]
 
 ## My Skill Set
 
@@ -20,7 +19,3 @@ I'm [adın], [meslek/ilgi alanı].
 ### Database
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## Highlights
-- ⭐ PRO
-- 📊 [Bir projen veya başarı, örneğin "Jenkins automation"]
