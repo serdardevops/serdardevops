@@ -1,6 +1,6 @@
 # < DEVOPS PIPELINE />
 
-![DevOps Pipeline GIF]([https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejIzanhzcDhubTc2YjB5N2l3czBhOXBjamF3NGZtOGNheWlyZ2p5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PxHEc3YRy3cfRuNBVE/giphy.gif))
+![DevOps Pipeline GIF]([https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif])
 
 ## Hello there! 👋
 I'm Serdar, a DevOps Engineer.  
